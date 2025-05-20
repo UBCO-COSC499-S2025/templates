@@ -74,15 +74,14 @@ Identify the major milestones in your solution and align them to the course time
 
 |  Milestone  | Deliverable |
 | :-------------: | ------------- |
-|  May 29th  | Project Plan Submission |
-| May 29th  | A short video presenation decribing the user groups and requirements for the project.  This will be reviewed by your client and the team will receive feedback. |
-| June 5th  | Design Submission: Same type of description here. Aim to have a design of the project and the system architecture planned out. Use cases need to be fully developed.  The general user interface design needs to be implemented by this point (mock-ups). This includes having a consistent layout, color scheme, text fonts, etc., and showing how the user will interact with the system should be demonstrated. |
-| June 5th  |  A short video presenation decribing the design for the project.  This will be reviewed by your client and the team will receive feedback. |
-| June 14th  | Mini-Presentations: A short description of the parts of the envisioned usage you plan to deliver for this milestone. Should not require additional explanation beyond what was already in your envisioned usage. This description should only be a few lines of text long. Aim to have 3 features working for this milestone (e.g., user log-in with credentials and permissions counts as 1 feature). Remember that features also need to be tested.  |
-| July 5th  | MVP Mini-Presentations: A short description of the parts of the envisioned usage you plan to deliver for this milestone. Should not require additional explanation beyond what was already in your envisioned usage. This description should only be a few lines of text long. Aim to have close to 50% of the features working for this milestone.  Remember that features also need to be tested. Clients will be invited to presentations.|
-| July 19th  | Peer testing and feedback: Aim to have an additional two features implemented and tested **per** team member. As the software gets bigger, you will need to be more careful about planning your time for code reviews, integration, and regression testing. |
-| August 2nd  | Test-O-Rama: Full scale system and user testing with everyone |
-| August 9th  |  Final project submission and group presentions: Details to follow |
+| May 27th  | Project Plan Submission |
+| June 3rd  | Design Submission: Same type of description here. Aim to have a design of the project and the system architecture planned out. Use cases need to be fully developed.  The general user interface design needs to be implemented by this point (mock-ups). This includes having a consistent layout, color scheme, text fonts, etc., and showing how the user will interact with the system should be demonstrated. |
+| June 3rd  |  A short video presenation decribing the design for the project.  This will be reviewed and the team will receive feedback. |
+| June 13th  | Mini-Presentations: A short description of the parts of the envisioned usage you plan to deliver for this milestone. Should not require additional explanation beyond what was already in your envisioned usage. This description should only be a few lines of text long.  This will be presented in the weekly team meeting. Remember that features also need to be tested.  |
+| July 4th  | MVP Mini-Presentations: A short description of the parts of the envisioned usage you plan to deliver for this milestone. Should not require additional explanation beyond what was already in your envisioned usage. This description should only be a few lines of text long. Feature set #1 will be completed by this milestone.  Remember that features also need to be tested. Clients will be invited to presentations.|
+| July 11th  | Peer testing and feedback: Aim to have an additional features implemented and tested by team member. As the software gets bigger, you will need to be more careful about planning your time for code reviews, integration, and regression testing. |
+| July 25th  | Test-O-Rama: Full scale system and user testing with everyone |
+| August 8th  |  Final project submission and group presentions - Feature set #2: Details to follow |
 
 ## Teamwork Planning and Anticipated Hurdles
 Based on the teamwork icebreaker survey, talk about the different types of work involved in a software development project. Start thinking about what you are good at as a way to get to know your teammates better. At the same time, know your limits so you can identify which areas you need to learn more about. These will be different for everyone. But in the end, you all have strengths and you all have areas where you can improve. Think about what those are, and think about how you can contribute to the team project. Nobody is expected to know everything, and you will be expected to learn (just some things, not everything).
@@ -97,7 +96,7 @@ For **good At**, list of skills relevant to the project that you think you are g
 |  **Good At**  |  |  |  |  |  |  | 
 |  **Expect to learn**  | Don’t ever leave this blank! We are all learning.  | Understanding your limits is important. Where do you expect you will need help? | It may not be technical skills. You may be a good coder but never worked with people in a team. Maybe you built a web- site but not used a framework. | It may also be a theoretical concept you already learned but never applied in practice. | Think about different project aspects: design, data security, web security, IDE tools, inte- gration testing, CICD, etc. There will be something. | Don’t ever leave this blank! We are all learning. | 
 
-Use this opportunity to discuss with your team who **may** do what in the project. Make use of everyone’s skill set and discuss each person’s role and responsibilities by considering how everyone will contribute.  Remember to identify project work (some examples are listed below at the top of the table) and course deliverables (the bottom half of the table). You might want to change the rows depending on what suits your project and team.  Understand that no one person will own a single task.  Recall that this is just an incomplete example.  Please explain how things are assigned in the caption below the table, or put the explanation into a separate paragraph so the reader understands why things are done this way and how to interpret your table. 
+Use this opportunity to discuss with your team who **may** do what in the project. Make use of everyone’s skill set and discuss each person’s role and responsibilities by considering how everyone will contribute.  Remember to identify project work (some examples are listed below at the top of the table) and course deliverables (the bottom half of the table). You might want to change the rows depending on what suits your project and team.  Understand that no one person will own a single task.  Recall that this is just an incomplete example.  Please explain how things are assigned in the caption below the table, or put the explanation into a separate paragraph so the reader understands why things are done this way and how to interpret your table.   Please note that this is just an example table and that you will need to complete this in more detail.
 
 |  Category of Work/Features  | Team Member 1 | Team Member 2 | Team Member 3 | Team Member 4 | Team Member 5 | Team Member 6 | 
 | ------------- | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
@@ -113,7 +112,4 @@ Use this opportunity to discuss with your team who **may** do what in the projec
 |  **Design Video Creation**  |  | :heavy_check_mark:  | :heavy_check_mark:  |  |  |  | 
 |  **Design Video Editing**  | :heavy_check_mark:  | :heavy_check_mark:  |  |  |  |  | 
 |  **Design Report**  | :heavy_check_mark:  |  |  |  |  |  | 
-|  **Final Video Creation**  | :heavy_check_mark:  |  |  |  |  | :heavy_check_mark:  | 
-|  **Final Video Editing**  | :heavy_check_mark:  |  |  |  |  | :heavy_check_mark:  | 
-|  **Final Team Report**  |  | :heavy_check_mark:  |  |  |  |  | 
-|  **Final Individual Report**  |  :heavy_check_mark: |  :heavy_check_mark: |  :heavy_check_mark: |  :heavy_check_mark: |  :heavy_check_mark: |  :heavy_check_mark: | 
+  **Final Team Report**  |  :heavy_check_mark: |  :heavy_check_mark: |  :heavy_check_mark: |  :heavy_check_mark: |  :heavy_check_mark: |  :heavy_check_mark: | 
